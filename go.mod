@@ -69,12 +69,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/luxfi/consensus => ../consensus
 
-replace github.com/luxfi/database => ../database
 
-replace github.com/luxfi/ids => ../ids
 
-replace github.com/luxfi/metric => ../metric
 
-replace github.com/luxfi/node => ../node
