@@ -6,7 +6,7 @@ require (
 	github.com/holiman/uint256 v1.3.2
 	github.com/luxfi/cache v1.1.0
 	github.com/luxfi/consensus v1.22.26
-	github.com/luxfi/constants v1.2.3
+	github.com/luxfi/const v1.4.0
 	github.com/luxfi/database v1.2.11
 	github.com/luxfi/ids v1.2.4
 	github.com/luxfi/log v1.1.26
