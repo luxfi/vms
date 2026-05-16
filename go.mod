@@ -1,6 +1,6 @@
 module github.com/luxfi/vms
 
-go 1.25.5
+go 1.26.3
 
 require (
 	github.com/holiman/uint256 v1.3.2
